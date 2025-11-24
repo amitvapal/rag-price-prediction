@@ -1,4 +1,4 @@
-#AI Price Prediction with RAG Pipeline
+# AI Price Prediction with RAG Pipeline
 
 This project implements an **AI-powered price prediction system** that uses a combination of:
 
